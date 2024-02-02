@@ -5,4 +5,7 @@
 #styledImage {
     border: ipx solid #FFA500;
     margin-left: 0%;
+    padding: 5px;
+    width: 150px;
+    border-radius: 4px;
 }
