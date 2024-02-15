@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <meta charset="utf-8">
+        <title>CSS Stylesheets with Relative Paths</title>
+        <link rel="Stylesheet" type="text/css" href="./style.css">
+    </head>
+    
+    <body>
+        <header>
+            <h1>Student Bio</h1>
+        </header>
+
+        <div class="container clearfix">
+            <section id="main-bio">
+                <h2>Nkuubi Lewis John</h2>
+
+                <img id="bio-image" src="./profile_photo.jpg" alt="John Lewis Nkuubi">
+
+                <p>I am John Lewis Nkuubi, a recent graduate with a Bachelor of Commerce from Makerere University and a current participant in Diverse Tech Talent Program: web development program by scholarship program by SkillHat. My passion for continuous learning and emerging technologies led me to enroll in The web development program, where I am actively learning HTML5, CSS, and JavaScript. As a proactive and adaptable professional, I have excelled in roles such as a Junior Accountant and an Assistant Project Manager at Youth Leading Environmental Change. I posess experience in project management that involved presenting confidently in organizational meetings and successfully pitching innovative approaches, contributing to the success of the Clean Environment Initiative Project.</p>
+
+                
+            </section>
+
+            <section id="contact-info">
+                <h2>Contact Info</h2>
+                <ul>
+                    <li class="drag">Email: <a href="mailto:nlewisjohn@gmail.com">nlewisjohn@gmail.com</a></li>
+                    <li class="drag">Github: <a href="https://github.com/John-Lewis-Nkuubi">John-Lewis-Nkuubi</a></li>
+                    <li class="drag">Portfolio: <a href="https://john-lewis-nkuubi.github.io/DTTP-web-development-class/biopage/index.html">comming soon</a></li>
+                </ul>
+            </section>
+        </div>
+    </body>
+</html>
