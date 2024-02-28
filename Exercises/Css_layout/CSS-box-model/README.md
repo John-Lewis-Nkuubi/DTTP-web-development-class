@@ -13,4 +13,4 @@ Working with a partner I am to implement the following user story:
 
 Your solution should match the following image:
 
-![Four numbered, differently colored boxes appear evenly spaced inside a larger box.](./assets/image-1.png)
+![Four numbered, differently colored boxes appear evenly spaced inside a larger box.](~/./demo/image-1.png)
